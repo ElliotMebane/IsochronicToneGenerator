@@ -13,6 +13,12 @@ Allows separate Fade-in and Fade-out settings instead of just one time setting u
 *IsomodEnvelope.ny*  
 Allows traditional envelope settings (attack, decay, sustain, release)  
   
+The included audio sample is 4 sequenced samples that match the screenshot of Audacity:  
+* 440Hz for 5 seconds.
+* IsomodExtended for 5 seconds. Equal fade-in and fade-out times of the original plugin.
+* IsomodInOut for 5 seconds. Different fade-in and fade-out times.
+* IsomodEnvelope for 5 seconds. Attack/Decay/Sustain/Release envelope segments.  
+  
 Blog post from Brian Slartsani's blog The Dynamic State and does a good job of describing how to use the original Isochronic Modulator plugin. 
 (https://thedynamicstate.wordpress.com/2016/12/24/creating-isochronic-tones-with-audacity/)
   
