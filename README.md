@@ -13,7 +13,7 @@ Allows separate Fade-in and Fade-out settings instead of just one time setting u
 *IsomodEnvelope.ny*  
 Allows traditional envelope settings (attack, decay, sustain, release)  
   
-The included audio sample is 4 sequenced samples that match the screenshot of Audacity:  
+The included audio sample is 4 sequenced samples that match the samples represented in the Audacity screenshot:  
 * 440Hz for 5 seconds.
 * IsomodExtended for 5 seconds. Equal fade-in and fade-out times of the original plugin.
 * IsomodInOut for 5 seconds. Different fade-in and fade-out times.
