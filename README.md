@@ -1,5 +1,5 @@
-# IsochronicToneGenerator
-Plugin for Isochronic Tone Generation in Audacity  
+# Isochronic Tone Modulator
+Plugin for Isochronic Tone Modulation in Audacity  
   
 These are modified versions of the Isochronic Modulator Audacity plugin originally written by Steve Daulton.   
 (https://wiki.audacityteam.org/wiki/Nyquist_Effect_Plug-ins#Isochronic_modulator)  
